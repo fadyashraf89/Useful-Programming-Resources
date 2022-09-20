@@ -1,4 +1,4 @@
-<< Books and Resources >>
+Books and Resources
 
 https://goalkicker.com/
 
@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/1h09iVPCyb6WCmFJLvIkDj_d8GehMKrOK
 https://drive.google.com/drive/mobile/folders/10VzjO6RI2EM7z3uEOUCi0V34sKS5rYFk?usp=sharing
 ______________________________________________
 
-<< Websites for Tutorials & Articles >>
+Websites for Tutorials & Articles
 
 https://www.w3schools.com/
 
@@ -103,7 +103,7 @@ http://patrickjmt.com/
 
 https://refactoring.guru/
 ______________________________________________
-<<Youtube Channels >>
+Youtube Channels
 
 https://youtube.com/c/Freecodecamp
 
