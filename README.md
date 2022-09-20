@@ -104,7 +104,6 @@ http://patrickjmt.com/
 https://refactoring.guru/
 ______________________________________________
 
-<<Youtube Channels >>
 
 https://youtube.com/c/Freecodecamp
 
