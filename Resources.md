@@ -104,6 +104,10 @@ https://roadmap.sh/
 http://patrickjmt.com/
 
 https://refactoring.guru/
+
+https://visualgo.net/en
+
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 ______________________________________________
 Youtube Channels
 
