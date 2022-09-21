@@ -10,6 +10,8 @@ https://www.pdfdrive.com/
 
 https://freecomputerbooks.com/
 
+https://www.techprofree.com/
+
 https://github.com/EbookFoundation/free-programming-books
 
 https://drive.google.com/drive/folders/1jGntJcXyhqhLSjEW3rXK1evViobyVGY3?fbclid=IwAR2DoNkDi74ocE4U1vFI8rO-GgBHPFptomaHhn66gXp5WZAbBz4GD8a6ra8
