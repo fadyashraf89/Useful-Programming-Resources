@@ -34,6 +34,8 @@ https://github.com/codecrafters-io/build-your-own-x?fbclid=IwAR0NKGB-a0Qv0MwV3-3
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit?fbclid=IwAR0x6vVzmMQpad5pbH3a0MGNdJmxahKjSkMYiPAYA1Ye58_VhSE50lHnPmw
 
+https://github.com/Developer-Y/cs-video-courses
+
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/899978573929917/
 
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/911258786135229/
