@@ -36,6 +36,8 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit?fbclid=IwAR0x6
 
 https://github.com/Developer-Y/cs-video-courses
 
+https://github.com/galoget/free-programming-books/blob/master/free-programming-books.md
+
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/899978573929917/
 
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/911258786135229/
