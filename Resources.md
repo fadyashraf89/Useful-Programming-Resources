@@ -1,4 +1,4 @@
-Books and Resources
+<< Books >>
 
 https://goalkicker.com/
 
@@ -12,15 +12,15 @@ https://freecomputerbooks.com/
 
 https://www.techprofree.com/
 
-https://github.com/EbookFoundation/free-programming-books
+---------------------------------------------------
 
-https://drive.google.com/drive/folders/1jGntJcXyhqhLSjEW3rXK1evViobyVGY3?fbclid=IwAR2DoNkDi74ocE4U1vFI8rO-GgBHPFptomaHhn66gXp5WZAbBz4GD8a6ra8
+<< GitHub Repositories >>
+
+https://github.com/EbookFoundation/free-programming-books
 
 https://github.com/aboelkassem/References_Books?fbclid=IwAR0GkHDvSrThmhoV4WU41inhddnd35dOFM-vWuRpxbRlNKtk8scSHbp-URU
 
 https://github.com/YoussefPro986/Programming-documents-books---courses---cheat-sheets-?fbclid=IwAR20CPnVzCphLBcfIr6T_LWoj6uSGKSLNR3VtUOyjHMjFF_soBzJoNg9pHM
-
-https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA
 
 https://github.com/aboelkassem/CollegeMaterials
 
@@ -38,6 +38,20 @@ https://github.com/Developer-Y/cs-video-courses
 
 https://github.com/galoget/free-programming-books/blob/master/free-programming-books.md
 
+---------------------------------------------------
+<< Google Drive & Mega Links >>
+
+https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA
+
+https://drive.google.com/drive/folders/1jGntJcXyhqhLSjEW3rXK1evViobyVGY3?fbclid=IwAR2DoNkDi74ocE4U1vFI8rO-GgBHPFptomaHhn66gXp5WZAbBz4GD8a6ra8
+
+https://drive.google.com/drive/folders/1h09iVPCyb6WCmFJLvIkDj_d8GehMKrOK
+
+https://drive.google.com/drive/mobile/folders/10VzjO6RI2EM7z3uEOUCi0V34sKS5rYFk?usp=sharing
+
+---------------------------------------------------
+<< Facebook Posts >>
+
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/899978573929917/
 
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/911258786135229/
@@ -51,13 +65,9 @@ https://www.facebook.com/groups/ElzeroWebSchool/permalink/5253722901423398/
 https://www.facebook.com/groups/658299311471049/permalink/1039527320014911/
 
 https://www.facebook.com/groups/777143179498808/permalink/900202650526193/
-
-https://drive.google.com/drive/folders/1h09iVPCyb6WCmFJLvIkDj_d8GehMKrOK
-
-https://drive.google.com/drive/mobile/folders/10VzjO6RI2EM7z3uEOUCi0V34sKS5rYFk?usp=sharing
 ______________________________________________
 
-Websites for Tutorials & Articles
+<< Tutorials & Articles >> 
 
 https://www.w3schools.com/
 
@@ -75,21 +85,27 @@ https://sololearn.com/
 
 https://www.khanacademy.org/
 
-https://elzero.org/
-
 https://www.freecodecamp.org/
 
-https://satr.codes/
-
 https://www.codecademy.com/
-
-http://www.cheat-sheets.org/
 
 https://developer.mozilla.org/en-US/
 
 https://www.interviewbit.com/
 
+<< Free Courses >>
+
+https://elzero.org/
+
+https://satr.codes/
+
+https://it-sharks.com/
+
+<< Cheat sheets >>
+
 https://html-css-js.com/
+
+http://www.cheat-sheets.org/
 
 https://cheatography.com/
 
@@ -97,7 +113,7 @@ https://lecoupa.github.io/awesome-cheatsheets/
 
 https://overapi.com/
 
-https://it-sharks.com/
+<< Miscellaneous Websites & Tools >>
 
 https://css-tricks.com/
 
@@ -105,13 +121,19 @@ https://codepen.io/trending
 
 https://roadmap.sh/
 
+https://visualgo.net/en
+
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 http://patrickjmt.com/
 
 https://refactoring.guru/
 
-https://visualgo.net/en
+https://matrixcalc.org/
 
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://www.calculator.net/matrix-calculator.html
+
+https://matrix.reshish.com/
 ______________________________________________
 Youtube Channels
 
