@@ -39,6 +39,7 @@ https://github.com/Developer-Y/cs-video-courses
 https://github.com/galoget/free-programming-books/blob/master/free-programming-books.md
 
 ---------------------------------------------------
+
 << Google Drive & Mega Links >>
 
 https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA
@@ -50,6 +51,7 @@ https://drive.google.com/drive/folders/1h09iVPCyb6WCmFJLvIkDj_d8GehMKrOK
 https://drive.google.com/drive/mobile/folders/10VzjO6RI2EM7z3uEOUCi0V34sKS5rYFk?usp=sharing
 
 ---------------------------------------------------
+
 << Facebook Posts >>
 
 https://www.facebook.com/groups/one.million.egyptian.coder/permalink/899978573929917/
@@ -93,6 +95,8 @@ https://developer.mozilla.org/en-US/
 
 https://www.interviewbit.com/
 
+---------------------------------------------------
+
 << Free Courses >>
 
 https://elzero.org/
@@ -100,6 +104,8 @@ https://elzero.org/
 https://satr.codes/
 
 https://it-sharks.com/
+
+---------------------------------------------------
 
 << Cheat sheets >>
 
@@ -112,6 +118,8 @@ https://cheatography.com/
 https://lecoupa.github.io/awesome-cheatsheets/
 
 https://overapi.com/
+
+---------------------------------------------------
 
 << Miscellaneous Websites & Tools >>
 
@@ -134,6 +142,16 @@ https://matrixcalc.org/
 https://www.calculator.net/matrix-calculator.html
 
 https://matrix.reshish.com/
+
+https://www.mathsisfun.com/
+
+https://www.sciencedirect.com/
+
+https://byjus.com/me/
+
+https://www.cuemath.com/
+
+
 ______________________________________________
 Youtube Channels
 
