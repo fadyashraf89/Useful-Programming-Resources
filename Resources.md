@@ -229,4 +229,24 @@ https://www.youtube.com/c/PenPaper95
 
 https://www.youtube.com/c/AbdallaFadl
 
-https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured
+https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw (Abdul Bari)
+
+https://www.youtube.com/c/Telusko
+
+https://www.youtube.com/c/Intellipaat
+
+https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ (Eli the Computer Guy)
+
+https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow (Design Course)
+
+https://www.youtube.com/user/hiteshitube
+
+https://www.youtube.com/c/codecourse
+
+https://www.youtube.com/c/LevelUpTuts
+
+https://www.youtube.com/user/flashbuilding
+
+https://www.youtube.com/c/EasyTutorialsVideo
+
+https://www.youtube.com/kepowob
