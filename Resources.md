@@ -79,7 +79,7 @@ https://elzero.org/
 
 https://www.freecodecamp.org/
 
-https://www.hostinger.com/tutorials/learn-coding-online-for-free
+https://satr.codes/
 
 https://www.codecademy.com/
 
