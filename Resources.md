@@ -105,6 +105,8 @@ https://satr.codes/
 
 https://it-sharks.com/
 
+https://nouvil.net/
+
 ---------------------------------------------------
 
 << Cheat sheets >>
