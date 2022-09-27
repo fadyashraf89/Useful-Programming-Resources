@@ -12,6 +12,8 @@ https://freecomputerbooks.com/
 
 https://www.techprofree.com/
 
+https://www.noor-book.com/
+
 ---------------------------------------------------
 
 << GitHub Repositories >>
