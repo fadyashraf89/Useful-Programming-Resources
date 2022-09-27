@@ -10,8 +10,6 @@ https://www.pdfdrive.com/
 
 https://freecomputerbooks.com/
 
-https://www.techprofree.com/
-
 https://www.noor-book.com/
 
 ---------------------------------------------------
