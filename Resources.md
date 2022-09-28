@@ -207,6 +207,8 @@ https://www.youtube.com/c/MuhammedEssa
 
 https://www.youtube.com/c/hussienahmmed
 
+https://www.youtube.com/c/cs50
+
 https://www.youtube.com/c/SwitchLineGames
 
 https://www.youtube.com/c/DevTipsForDesigners
